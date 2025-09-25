@@ -2,9 +2,9 @@
 
 ---
 
-<p align="right">
+<!-- <p align="right">
   <img src="./mi-foto.png" alt="Dionel Valera" width="180" style="border-radius: 16px; box-shadow: 0 4px 16px #0002;" />
-</p>
+</p> -->
 
 ## 🚀 ¡Bienvenido a mi perfil!
 
@@ -58,4 +58,6 @@ I'm **Dionel Valera**, a full stack developer passionate about technology, logic
 
 ---
 
+<!--
 <p align="center"><b>¡Gracias por visitar mi perfil! / Thanks for visiting my profile! 🚀</b></p>
+ -->
