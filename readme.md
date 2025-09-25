@@ -1,9 +1,60 @@
-<!-- # 💫 About Me:
-¡Hola! Soy Dionel, un apasionado desarrollador de software y creativo digital. Este repositorio contiene el código de mi portafolio personal, un espacio donde no solo muestro mis proyectos, sino también un reflejo de mi dedicación por construir experiencias de usuario limpias, eficientes y atractivas.
+# Dionel Valera
 
+# 🚀 ¡Bienvenido a mi perfil!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Diojvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dionelvalera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dionelvalera@gmail.com)
+Soy **Dionel Valera**, programador full stack apasionado por la tecnología, la lógica y la innovación. Aquí encontrarás proyectos, ideas y soluciones que buscan transformar el mundo digital.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) -->
+<table>
+    <td>
+## 🧑‍💻 Sobre mí
+
+- Programador Full Stack
+- Creativo, autodidacta y colaborador
+- Experiencia en Node.js, SQL, JavaScript, Astro, HTML, CSS, Tailwind
+- Certificaciones en JavaScript, HTML, CSS, Python, C++, SQL
+- Frameworks: React, Vue, Node.js, Next.js, Astro, Tailwind
+- Herramientas: Vscode, Linux, CLI, Git, Troubleshooting
+
+## 💡 ¿Qué me hace diferente?
+
+- Resolutivo y curioso
+- Comunicación clara y mentoría
+- Trabajo en equipo y contribuciones open source
+<p align="center"><b>¡Gracias por visitar mi perfil! / Thanks for visiting my profile! 🚀</b></p>
+      </td>
+        <img src="./mi-foto.png" alt="Dionel Valera" width="400" align="right" style="border-radius: 16px; box-shadow: 0 4px 16px #0002;" />
+       
+  </table>
+
+## 📫 Contacto
+
+- Email: dionelvalera@gmail.com
+- Teléfono: (+58) 412-5476512
+
+---
+
+# 🚀 Welcome to my profile!
+
+I'm **Dionel Valera**, a full stack developer passionate about technology, logic, and innovation. Here you'll find projects, ideas, and solutions aiming to transform the digital world.
+
+## 🧑‍💻 About me
+
+- Full Stack Developer
+- Creative, self-taught, and team player
+- Experience in Node.js, SQL, JavaScript, Astro, HTML, CSS, Tailwind
+- Certifications in JavaScript, HTML, CSS, Python, C++, SQL
+- Frameworks: React, Vue, Node.js, Next.js, Astro, Tailwind
+- Tools: Vscode, Linux, CLI, Git, Troubleshooting
+
+## 💡 What makes me different?
+
+- Problem solver and curious
+- Clear communication and mentoring
+- Teamwork and open source contributions
+
+## 📫 Contact
+
+- Email: dionelvalera@gmail.com
+- Phone: (+58) 412-5476512
+
+---
