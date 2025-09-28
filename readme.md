@@ -30,29 +30,6 @@ Soy **Dionel Valera**, programador full stack apasionado por la tecnología, la 
 - Email: dionelvalera@gmail.com
 - Teléfono: (+58) 412-5476512
 
----
-
-## 🚀 Welcome to my profile
-
-I'm **Dionel Valera**, a full stack developer passionate about technology, logic, and innovation. Here you'll find projects, ideas, and solutions aiming to transform the digital world.
-
-### 🧑‍💻 About me
-
-- Full Stack Developer
-- Creative, self-taught, and team player
-- Experience in Node.js, SQL, JavaScript, Astro, HTML, CSS, Tailwind
-- Certifications in JavaScript, HTML, CSS, Python, C++, SQL
-- Frameworks: React, Vue, Node.js, Next.js, Astro, Tailwind
-- Tools: Vscode, Linux, CLI, Git, Troubleshooting
-
-### 💡 What makes me different?
-
-- Problem solver and curious
-- Clear communication and mentoring
-- Teamwork and open source contributions
-
-### 📫 Contact
-
 - Email: dionelvalera@gmail.com
 - Phone: (+58) 412-5476512
 
