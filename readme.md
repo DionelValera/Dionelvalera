@@ -13,6 +13,3 @@
 
 - Email: dionelvalera@gmail.com
 - Teléfono: (+58) 412-5476512
-
-- Email: dionelvalera@gmail.com
-- Phone: (+58) 412-5476512
