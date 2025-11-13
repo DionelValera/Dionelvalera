@@ -19,6 +19,7 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
 ### 🧠 Habilidades Técnicas
 
 #### 💻 Lenguajes
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,6 +31,7 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### ⚙️ Frameworks y Herramientas
+
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -45,24 +47,27 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
 ### 💼 Proyectos Destacados
 
 #### 🧊 [OnyxOS](https://github.com/DionelValera/OnyxOS)
+
 > Una distribución basada en Arch Linux y KDE Plasma, enfocada en personalización, rendimiento y una experiencia fluida.  
-> *“Tu escritorio, tu forma.”*
+> _“Tu escritorio, tu forma.”_
 
 #### 📊 [Contabilito](https://github.com/DionelValera/contabilito)
+
 > Sistema de información orientado a la contabilidad general.  
 > Desarrollado como proyecto de grado, combina precisión contable con una interfaz amigable.
 
 #### 🎬 [Cineby](https://github.com/DionelValera/cineby)
+
 > Aplicación para ver películas y series con interfaz moderna, búsqueda rápida y listas personalizadas.
 
 ---
 
 ### 🧠 Habilidades Blandas
 
-- **Pensamiento Crítico y Analítico:** Capacidad para descomponer problemas complejos y evaluar soluciones objetivamente.  
-- **Resolución de Problemas (Troubleshooting):** Experiencia diagnosticando y corrigiendo errores en software y sistemas.  
-- **Comunicación Efectiva:** Claridad al expresar ideas técnicas y no técnicas.  
-- **Trabajo en Equipo y Control de Versiones:** Firme creencia en la colaboración, utilizando Git y GitHub para flujos de trabajo eficientes.  
+- **Pensamiento Crítico y Analítico:** Capacidad para descomponer problemas complejos y evaluar soluciones objetivamente.
+- **Resolución de Problemas (Troubleshooting):** Experiencia diagnosticando y corrigiendo errores en software y sistemas.
+- **Comunicación Efectiva:** Claridad al expresar ideas técnicas y no técnicas.
+- **Trabajo en Equipo y Control de Versiones:** Firme creencia en la colaboración, utilizando Git y GitHub para flujos de trabajo eficientes.
 - **Idiomas:** Español (Nativo) e Inglés (Intermedio).
 
 ---
