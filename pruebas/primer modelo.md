@@ -75,8 +75,8 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
 ### 📈 Estadísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DionelValera&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionelValera&layout=compact&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DionelValera&show_icons=true&theme=dark&title_color=FF3C3C&icon_color=FF3C3C&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionelValera&layout=compact&theme=dark&title_color=FF3C3C&hide_border=true" />
 </p>
 
 ---
@@ -84,8 +84,14 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://github.com/DionelValera" target="_blank"><img src="https://img.shields.io/badge/GitHub-DionelValera-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:dionelvalera@outlook.com"><img src="https://img.shields.io/badge/Correo-dionelvalera@outlook.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/DionelValera"><img src="https://img.shields.io/badge/GitHub-DionelValera-202020?style=for-the-badge&logo=github"></a>
+  <a href="http://github.com/DionelValera/Portfolio"><img src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&logo=firefoxbrowser&logoColor=purple"></a>
+  <br/>
+  <a href="mailto:Dionelvalera@gmail.com"><img src="https://img.shields.io/badge/Correo-Dionelvalera@gmail.com-FF0C3C?style=for-the-badge&logo=gmail&bannerColor=red"></a>
+  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-202020?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=discord"></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram"></a>
+  
 </p>
 
 ---
