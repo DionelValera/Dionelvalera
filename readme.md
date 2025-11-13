@@ -88,9 +88,9 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
   <a href="http://github.com/DionelValera/Portfolio"><img src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&logo=firefoxbrowser&logoColor=purple"></a>
   <br/>
   <a href="mailto:Dionelvalera@gmail.com"><img src="https://img.shields.io/badge/Correo-Dionelvalera@gmail.com-FF0C3C?style=for-the-badge&logo=gmail&bannerColor=red"></a>
-  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-202020?style=for-the-badge&logo=whatsapp"></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=discord"></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram"></a>
+  <a href="https://wa.me/584125476512"><img src="https://img.shields.io/badge/WhatsApp-202020?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://discord.com/users/diojvi"><img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=discord"></a>
+  <a href="https://instagram.com/diojvi"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram"></a>
   
 </p>
 
