@@ -7,15 +7,16 @@
 ---
 
 ### 🧩 Sobre mí
+
 <table style="border:none;">
 <tr>
 <td width="60%" style="border:none;">
 <p>
-Soy un Técnico Superior Universitario en Informática recién graduado, con un profundo interés en el desarrollo frontend y el ecosistema Linux.
-Mi trayectoria académica culminó con una tesis de grado destacada (19.4/20), reflejando mi compromiso con la excelencia y la calidad en cada proyecto que emprendo.
+Soy un <b>Técnico Superior Universitario en Informática</b> recién graduado, con un profundo interés en el desarrollo <b>frontend</b> y el ecosistema Linux.
+Mi trayectoria académica culminó con una tesis de grado destacada (<b>19.4/20</b>), reflejando mi compromiso con la excelencia y la calidad en cada proyecto que emprendo.
 
 Me considero un entusiasta del troubleshooting y el pensamiento analítico, siempre buscando soluciones óptimas y eficientes.  
-Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la personalización y eficiencia de sistemas Unix, con una especial afinidad por <b>Arch Linux</b>, <b>KDE Plasma</b> y <b>Hyprland</b>.
+Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la personalización y eficiencia de sistemas <b>Unix</b>, con una especial afinidad por <b>Arch Linux</b>, <b>KDE Plasma</b> y <b>Hyprland</b>.
 </p>
 </td>
 <td width="40%" style="border:none;">
@@ -23,8 +24,6 @@ Disfruto trabajar tanto en entornos Windows y Android como sumergirme en la pers
 </td>
 </tr>
 </table>
-
-
 
 ---
 
